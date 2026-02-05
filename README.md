@@ -37,6 +37,8 @@ To ensure reliability and transparency, models are assessed using:
 Accuracy
 
 Precision & Recall
+<img width="975" height="353" alt="image" src="https://github.com/user-attachments/assets/0acbaa65-9e57-4cfe-a3d0-9479dd866c74" />
+
 
 F1-score
 
