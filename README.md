@@ -29,13 +29,6 @@ The repository may include models such as:
 
 Logistic Regression
 
-Random Forest
-
-Gradient Boosting
-
-Support Vector Machines (SVM)
-
-Neural Networks (optional)
 
 # 📈 Evaluation Metrics
 
